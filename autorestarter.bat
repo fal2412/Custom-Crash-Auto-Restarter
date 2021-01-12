@@ -2,7 +2,7 @@
 @shift /0
 @echo off
 title Fal#2412 crash auto restarter
-echo                       Make sure to add this to your enet
+echo                       Make sure to add this to your exe
 echo [40;32m__
 set /p enet="[!] Enter your exe name : "
 echo [40;32m__
