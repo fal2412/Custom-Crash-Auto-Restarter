@@ -1,2 +1,2 @@
 # Custom-Crash-Auto-Restarter
-A custom crash auto restarter.
+A custom name .exe crash auto restarter.
